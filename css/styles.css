@@ -10202,6 +10202,11 @@ h3 {
   top: 60px;
   left: 160px;
 }
+.image10 {
+  position: absolute;
+  top: 40px;
+  left: 220px;
+}
 
 .portfolio .portfolio-item {
   cursor: pointer;
