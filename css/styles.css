@@ -10247,6 +10247,7 @@ h3 {
   position: absolute;
   top: 80px;
   left: 0;
+  border: 0px solid #fbff00;
 }
 
 
@@ -10270,6 +10271,15 @@ h3 {
 .twitterbox {
   margin-left: 20px;
 }
+.bountybox {
+  border: 2px solid #000000;
+  position: relative;
+  width: 100%;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+
 
 
 .portfolio .portfolio-item {
