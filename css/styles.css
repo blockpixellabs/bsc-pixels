@@ -10235,7 +10235,7 @@ h3 {
 }
 .image12 {
   position: absolute;
-  top: 80px;
+  top: 120px;
   left: 120px;
 }
 .image13 {
@@ -10250,11 +10250,82 @@ h3 {
   border: 0px solid #fbff00;
 }
 
+/*! Freebie section
+*/
 
+.image101 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+}
+.image102 {
+  position: absolute;
+  top: 140px;
+  left: 20px;
+}
+.image103 {
+  position: absolute;
+  top: 140px;
+  left: 40px;
+}
+.image104 {
+  position: absolute;
+  top: 140px;
+  left: 60px;
+}
+.image105 {
+  position: absolute;
+  top: 140px;
+  left: 80px;
+}
+.image106 {
+  position: absolute;
+  top: 140px;
+  left: 100px;
+}
+.image107 {
+  position: absolute;
+  top: 160px;
+  left: 0;
+}
+.image108 {
+  position: absolute;
+  top: 160px;
+  left: 20px;
+}
+.image109 {
+  position: absolute;
+  top: 160px;
+  left: 40px;
+}
+.image110 {
+  position: absolute;
+  top: 160px;
+  left: 60px;
+}
+.image111 {
+  position: absolute;
+  top: 160px;
+  left: 80px;
+}
+.image112 {
+  position: absolute;
+  top: 160px;
+  left: 100px;
+}
+.image113 {
+  position: absolute;
+  top: 140px;
+  left: 120px;
+}
+.image114 {
+  position: absolute;
+  top: 160px;
+  left: 120px;
+}
 
-
-
-
+/*! Grid B
+*/
 
 .gridb {
   position: relative;
